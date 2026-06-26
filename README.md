@@ -117,3 +117,9 @@ fraud_detection_pipeline.pkl
 and loaded into the Streamlit application using Joblib.
 
 ---
+## Author
+
+Shreeya Suriyakumar
+
+Aspiring Data Scientist | Python | Machine Learning | Data Analytics
+
